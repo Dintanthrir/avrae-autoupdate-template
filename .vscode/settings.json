@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "*.alias": "python",
+        "*.snippet": "python",
+        "*.gvar": "python"
+    },
+    "files.trimTrailingWhitespace": true,
+    "files.trimFinalNewlines": true,
+}
